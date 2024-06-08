@@ -1,6 +1,18 @@
 
 # Project Title- Employee Record Management System
 
+
+![Employee](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/ed43111b-dd84-4ef5-a824-c67e08e1d137.png)
+
+
+![Employee Dashboard edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/214e25a1-c487-41da-961b-f3f065928dba.png)
+
+
+
+
+
+
+
 # Technolonlgies Used-
  
 - **Backend**: Python, Django
