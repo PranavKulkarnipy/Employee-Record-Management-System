@@ -1,7 +1,7 @@
 
 # Project Title- Employee Record Management System
 
-https://user-images.githubusercontent.com/156565305/337866132-cf5b1b9d-6453-44ca-98aa-8df161dd6fb9.png
+
 
 # Technolonlgies Used-
  
