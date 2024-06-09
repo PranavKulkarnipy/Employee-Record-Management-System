@@ -58,10 +58,10 @@ The **Employee Record Management System** is a comprehensive and user-friendly a
 
 ### Educational Information Management
 - 🎓 **Capture and manage educational qualifications**, including:
-  - **Graduation Details:**
+  - **Graduation and Post Graduation Details:**
     - Marks
     - Passing Year
-    - School/College Name
+    - College Name
   - **Higher Secondary Certificate (HSC) Details:**
     - Marks
     - Passing Year
