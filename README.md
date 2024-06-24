@@ -3,30 +3,6 @@
 
 
 
-![Employee](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/ed43111b-dd84-4ef5-a824-c67e08e1d137.png)
-
-
-![Employee Dashboard edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/214e25a1-c487-41da-961b-f3f065928dba.png)
-
-
-
-![Employee Profile](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/eca4bd13-06a0-4a66-a7f5-f494200c10e9.png)
-
-
-
-
-![Employee Signup edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/accb9c63-c7df-4106-9812-6104cb08ac86.png)
-
-
-![Emp](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/390d9307-dba7-47e4-b588-864ee994e520)
-
-
-
-
-
-
-# Project Title- Employee Record Management System
-
 # Technolonlgies Used-
  
 
@@ -87,6 +63,7 @@ The **Employee Record Management System** is a comprehensive and user-friendly a
 - 📄 **Export and convert employee data** into various document formats including:
   - PDF
   - Excel
+  - CSV
 
 ## Benefits
 - 🚀 **Efficient Record Keeping:** Streamlined storage and management of employee records.
@@ -97,7 +74,22 @@ The **Employee Record Management System** is a comprehensive and user-friendly a
 This system is designed to be an indispensable tool for organizations seeking to improve their employee record management processes, ensuring data is easily accessible, secure, and organized.
 
 
+![Employee](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/ed43111b-dd84-4ef5-a824-c67e08e1d137.png)
 
+
+![Employee Dashboard edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/214e25a1-c487-41da-961b-f3f065928dba.png)
+
+
+
+![Employee Profile](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/eca4bd13-06a0-4a66-a7f5-f494200c10e9.png)
+
+
+
+
+![Employee Signup edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/accb9c63-c7df-4106-9812-6104cb08ac86.png)
+
+
+![Emp](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/390d9307-dba7-47e4-b588-864ee994e520)
 
 ## Installation
     
